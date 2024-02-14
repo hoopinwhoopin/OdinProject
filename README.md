@@ -1,2 +1,1 @@
-# Odin-recipies
-hehehehehehehehehehehehehehehehehehehehehehehehehehehehehehe
+#THE ODIN PROJECT
